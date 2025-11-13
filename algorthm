@@ -1,0 +1,10 @@
+sentence:= "this is a sentence."
+count:= 0
+s:=0
+
+while (s<len(sentence))DO:
+  IF s = 'u':
+      vowel_count = count + 1
+
+
+WRIE(word_count, vowel_count)
